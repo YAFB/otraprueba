@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		background-color: #ff0000;
 		margin: 40px;
 		font: 13px/20px normal Helvetica, Arial, sans-serif;
-		color: #ffffff;
+		color: #c0c0c0;
 	}
 
 	a {
@@ -27,8 +27,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	h1 {
 		color: #FCFCFC;
-		background-color: transparent;
-		border-bottom: 1px solid #D0D0D0;
+		background-color: #000000;
+		border-bottom: 1px solid #808080;
 		font-size: 19px;
 		font-weight: normal;
 		margin: 0 0 14px 0;
@@ -39,18 +39,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		font-family: Consolas, Monaco, Courier New, Courier, monospace;
 		font-size: 12px;
 		background-color: #f9f9f9;
-		border: 1px solid #D0D0D0;
-		color: #002166;
+		border: 1px solid #808080;
+		color: #00ff00;
 		display: block;
 		margin: 14px 0 14px 0;
 		padding: 12px 10px 12px 10px;
 	}
 
 	#body {
+		background-color: #000000;
 		margin: 0 15px 0 15px;
 	}
 
 	p.footer {
+		background-color: #000000;
 		text-align: right;
 		font-size: 11px;
 		border-top: 1px solid #D0D0D0;
@@ -60,9 +62,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}
 
 	#container {
+		background-color: #000000;
 		margin: 10px;
 		border: 1px solid #D0D0D0;
-		box-shadow: 0 0 8px #D0D0D0;
+		box-shadow: 0 0 8px #808080;
 	}
 	</style>
 </head>
