@@ -68,12 +68,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter!</h1>
+	<h1>hola a todos</h1>
 
 	<div id="body">
 		<p>Ey que onda</p>
 
+
 		<p>Vamos por una maruchan?</p>
+
+		<p>Dale click</p>
+
 		<code>application/views/welcome_message.php</code>
 
 		<p>The corresponding controller for this page is found at:</p>
