@@ -12,7 +12,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	::-moz-selection { background-color: #E13300; color: white; }
 
 	body {
-
 		background-color: #ff0000;
 		margin: 40px;
 		font: 13px/20px normal Helvetica, Arial, sans-serif;
@@ -75,8 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>Inicio</h1>
 
 	<div id="body">
-		<p>Ey que onda</p>
-
+		<p>Fuck u bitch </p>
 
 		<p>Vamos por una maruchan?</p>
 
