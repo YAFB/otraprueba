@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+	<title>Xibusinness</title>
 
 	<style type="text/css">
 
@@ -12,14 +12,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	::-moz-selection { background-color: #E13300; color: white; }
 
 	body {
-		background-color: #FF5733;
+
+		background-color: #ff0000;
 		margin: 40px;
 		font: 13px/20px normal Helvetica, Arial, sans-serif;
-		color: #4F5155;
+		color: #ffffff;
 	}
 
 	a {
-		color: #FCFCFC;
+		color: #fcfcfc;
 		background-color: transparent;
 		font-weight: normal;
 	}
