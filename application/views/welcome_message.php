@@ -12,20 +12,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	::-moz-selection { background-color: #E13300; color: white; }
 
 	body {
-		background-color: #fff;
+		background-color: #FF5733;
 		margin: 40px;
 		font: 13px/20px normal Helvetica, Arial, sans-serif;
 		color: #4F5155;
 	}
 
 	a {
-		color: #003399;
+		color: #FCFCFC;
 		background-color: transparent;
 		font-weight: normal;
 	}
 
 	h1 {
-		color: #444;
+		color: #FCFCFC;
 		background-color: transparent;
 		border-bottom: 1px solid #D0D0D0;
 		font-size: 19px;
@@ -76,7 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 		<p>Vamos por una maruchan?</p>
 
-		<p>Dale click</p>
+		<p>Dale click aquiiiiiiii</p>
 
 		<code>application/views/welcome_message.php</code>
 
