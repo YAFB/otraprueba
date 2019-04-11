@@ -76,7 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>Dale click</p>
 		<code>application/views/welcome_message.php</code>
 
-		<p>The corresponding controller for this page is found at:</p>
+		<p>De la sierra morena cielito lindo vienen bajando</p>
 		<code>application/controllers/Welcome.php</code>
 
 		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
