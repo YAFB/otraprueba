@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 		<p>Dale click aquiiiiiiii</p>
 
-		<code>application/views/welcome_message.php</code>
+		<code>Hola mundo HTML</code>
 
 		<p>De la sierra morena cielito lindo vienen bajando</p>
 		<code>application/controllers/Welcome.php</code>
